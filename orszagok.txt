@@ -3,3 +3,8 @@ Csehország PBF
 Szlovákia PBF
 Németország PBF
 Norvégia PBF
+Monaco BT
+Nauru BT
+Tuvalu BT
+Antigua és Barbuda BT
+Saint Lucia BT
